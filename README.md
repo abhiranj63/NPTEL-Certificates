@@ -1,7 +1,7 @@
 # NPTEL Certificates
  This repository contain the certificates that I have recieved from NPTEL. I have successfully earned certifications from NPTEL (National Programme on Technology Enhanced Learning) across various courses. These courses are designed by prestigious institutes such as IITs and IISc, which ensure high-quality education in cutting-edge topics. These certificates demonstrate my commitment to continuous learning and mastery of concepts in specialized areas.
 
-Courses Completed:
+Courses Completed:-
     1.Theory of Computation (12 weeks)
 
 Personal and Academic Value Added:
@@ -19,3 +19,6 @@ Enhanced Research Capability: The courses often include research-oriented conten
 Networking Opportunities: Through NPTEL, I have gained access to a vibrant community of learners, faculty, and industry professionals, providing opportunities to engage in knowledge-sharing and collaboration, further enhancing my professional network.
 
 Boost in Confidence and Personality Development: Successfully completing these courses has boosted my confidence. The ability to master challenging content from premier institutions has reinforced my self-belief and has added to my personal growth, making me more assertive, diligent, and resilient.
+
+
+**CERTIFICATE **
