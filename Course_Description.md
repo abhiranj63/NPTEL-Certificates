@@ -2,10 +2,10 @@
  This repository contain the certificates that I have recieved from NPTEL. I have successfully earned certifications from NPTEL (National Programme on Technology Enhanced Learning) across various courses. These courses are designed by prestigious institutes such as IITs and IISc, which ensure high-quality education in cutting-edge topics. These certificates demonstrate my commitment to continuous learning and mastery of concepts in specialized areas.
 
 Courses Completed:-
-    1.Theory of Computation (12 weeks)
-    2.Python For Data Science (4 weeks)
-    3.Database Management System (8 weeks) 
-    4.Introduction to Machine Learning(8 weeks)
+    1.Theory of Computation (12 weeks) \n
+    2.Python For Data Science (4 weeks) \n
+    3.Database Management System (8 weeks) \n 
+    4.Introduction to Machine Learning(8 weeks) \n
 Outcomes From the Course:-
 Each course has significantly contributed to expanding my technical skill set and deepening my understanding of real-world challenges and solutions:
 
