@@ -50,4 +50,13 @@
     from premier institutions has reinforced my self-belief and has added to my personal growth, making me more assertive, diligent, and resilient.
 
 
- 
+ # Course Certificates🎖️🎖️:-
+   [Python for Data Science Certificate.pdf](https://github.com/user-attachments/files/17226931/Python.for.Data.Science.Certificate.pdf)
+   
+   [Introduction To Machine Learning - IITKGP Certificate.pdf](https://github.com/user-attachments/files/17226929/Introduction.To.Machine.Learning.-.IITKGP.Certificate.pdf)
+   
+   [Data Base Management System Certificate.pdf](https://github.com/user-attachments/files/17226928/Data.Base.Management.System.Certificate.pdf)
+   
+   [TOC certificate.pdf](https://github.com/user-attachments/files/17226926/TOC.certificate.pdf)
+   
+     
