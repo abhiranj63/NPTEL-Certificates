@@ -3,6 +3,9 @@
 
 Courses Completed:-
     1.Theory of Computation (12 weeks)
+    2.Python For Data Science (4 weeks)
+    3.Database Management System (8 weeks) 
+    4.Introduction to Machine Learning(8 weeks)
 
 Personal and Academic Value Added:
 
@@ -21,5 +24,4 @@ Networking Opportunities: Through NPTEL, I have gained access to a vibrant commu
 Boost in Confidence and Personality Development: Successfully completing these courses has boosted my confidence. The ability to master challenging content from premier institutions has reinforced my self-belief and has added to my personal growth, making me more assertive, diligent, and resilient.
 
 
-**CERTIFICATE 🥇:-**
-[TOC certificate.pdf](https://github.com/user-attachments/files/17177643/TOC.certificate.pdf)
+ 
