@@ -8,13 +8,13 @@ These certifications span across core computer science domains such as **machine
 
 ## 🗂 Certificate Summary
 
-| 📘 Course Name                    | 🏫 Institution                    | 📅 Duration      | 🧠 Credits | 📈 Score (%) | 📜 Certificate |
-|----------------------------------|----------------------------------|------------------|------------|--------------|----------------|
-| Introduction to Machine Learning| IIT Kharagpur (NPTEL)           | Jul–Sep 2024     | 2 or 3     | 75%          | [View PDF](./Introduction%20To%20Machine%20Learning%20-%20IITKGP%20Certificate.pdf) |
-| Python for Data Science         | NPTEL                            | Jul–Aug 2024     | 1 or 2     | 75%          | [View PDF](./Python%20for%20Data%20Science%20Certificate.pdf) |
-| Data Base Management System     | NPTEL                            | Jul–Sep 2024     | 2 or 3     | 60%          | [View PDF](./Data%20Base%20Management%20System%20Certificate.pdf) |
-| Theory of Computation           | NPTEL                            | Jan–Apr 2024     | 3 or 4     | 46%          | [View PDF](./TOC%20certificate.pdf) |
-| Digital Forensics               | SWAYAM / Uttarakhand Open Univ.  | Dec 2024         | 4          | 72%          | [View PDF](./Digital%20Forensic%20certificate.pdf) |
+| 📘 Course Name                    | 🏫 Institution                    | 📅 Duration      | 🧠 Credits | 📈 Score (%) |  
+|----------------------------------|----------------------------------|------------------|------------|--------------| 
+| Introduction to Machine Learning| IIT Kharagpur (NPTEL)           | Jul–Sep 2024     | 2 or 3     | 75%          |  
+| Python for Data Science         | NPTEL                            | Jul–Aug 2024     | 1 or 2     | 75%          |  
+| Data Base Management System     | NPTEL                            | Jul–Sep 2024     | 2 or 3     | 60%          |  
+| Theory of Computation           | NPTEL                            | Jan–Apr 2024     | 3 or 4     | 46%          | 
+| Digital Forensics               | SWAYAM / Uttarakhand Open Univ.  | Dec 2024         | 4          | 72%          | 
 
 ---
 
